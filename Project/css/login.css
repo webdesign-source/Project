@@ -74,7 +74,7 @@ a[class=login]{
   margin: 8px 0;
   display: inline-block;
   cursor: pointer;
-  width: 97.25%;
+  width: auto;
   font-size: 18px;
   border-radius: 3px;
 }
